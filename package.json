@@ -12,6 +12,7 @@
   "dependencies": {
     "bootstrap": "^4.0.0",
     "bootstrap-social": "^5.1.1",
+    "del": "^6.0.0",
     "font-awesome": "^4.7.0",
     "grunt-contrib-clean": "^2.0.1",
     "grunt-contrib-copy": "^1.0.0",
@@ -31,6 +32,7 @@
     "browser-sync": "^2.27.9",
     "grunt": "^1.0.2",
     "gulp": "^3.9.1",
+    "gulp-imagemin": "^4.1.0",
     "gulp-sass": "^5.1.0",
     "node-sass": "^7.0.1"
   }
